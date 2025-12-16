@@ -1,3 +1,6 @@
+### C4 диаграмма
+![Архитектура BionicPRO](BionicPRO_C4_model.drawio.png)
+
 ### Админка Keycloak:
 http://localhost:8080/admin
 
